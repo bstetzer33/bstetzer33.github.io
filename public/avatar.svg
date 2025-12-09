@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect width="100%" height="100%" fill="#e6e6e6"/>
+  <g transform="translate(128 96)">
+    <circle cx="128" cy="96" r="96" fill="#c7c7c7" />
+    <rect x="0" y="224" width="256" height="160" rx="16" fill="#dcdcdc" />
+  </g>
+  Sorry, your browser does not support inline SVG.
+</svg>
